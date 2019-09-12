@@ -1,5 +1,5 @@
 site_name: My Docs
 theme: readthedocs
 
-pages:
+nav:
   - Home: index.md
